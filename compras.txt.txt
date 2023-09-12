@@ -1,5 +1,5 @@
 Lista:
-1 - Carne vermelha
+1 - Carne vermelha e filé
 2 - Creatina
 3 - Ovo
 4 - Macarrão
