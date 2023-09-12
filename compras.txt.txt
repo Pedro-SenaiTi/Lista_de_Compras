@@ -6,3 +6,4 @@ Lista:
 5 - Batata
 6 - Arroz
 7 - Feijão e Maçã
+8 - chá
